@@ -2,9 +2,8 @@
 # 系统说明
 
 #### 1、HELLOBOX UIBOT 远程升级服务
-#### 2、日期.zip 为完整运行程序，可根据最新日期来下载最新版本
-#### 3、lastversion.txt 里为最新版本
-#### 4、updating.html 为升级时的提示界面
+#### 2、在 Releases 里的 日期.zip 为完整运行流程压缩包，可根据最新日期来下载最新版本
+#### 3、在 Releases 里的 lastversion.txt 里为最新版本号
 
 # 使用流程
 
